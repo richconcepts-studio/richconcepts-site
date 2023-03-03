@@ -1,0 +1,9 @@
+.logo {
+    text-transform: capitalize;
+}
+
+#home {
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+}
